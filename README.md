@@ -11,8 +11,6 @@ Pix: Faça transferências via Pix usando CPF ou e-mail como chave.
 
 Cofrinho Digital: Armazene um valor no "cofrinho" digital e realize depósitos ou saques.
 
-Extrato de Conta: Veja um histórico detalhado de todas as transações realizadas na conta.
-
 Lista de Contas: Acesse uma lista de todas as contas cadastradas no sistema.
 
 Tecnologias Utilizadas:
